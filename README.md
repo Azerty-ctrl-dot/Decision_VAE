@@ -4,7 +4,7 @@
 
 ### Execution : ###
 
-To **run** the code all you need to do is **execute the notebook cells**.
+To **run** the code all you need to do is **execute the notebook cells** of the file `code.ipynb`.
 
 ### What will you find : ###
 
